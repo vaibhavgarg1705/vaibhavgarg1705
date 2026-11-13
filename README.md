@@ -47,8 +47,8 @@ I'm a third-year B.Tech student passionate about building practical software sol
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/vaibhavgarg1705
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+- LinkedIn: https://www.linkedin.com/in/vaibhav-garg-5a3651418
+- Email: gargvaibhav1705@gmail.com
 
 ---
 
